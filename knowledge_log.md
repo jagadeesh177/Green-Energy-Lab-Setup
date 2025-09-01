@@ -1,0 +1,5 @@
+1. [How to setup the project by node.js]
+2. [We learnt what is git and github and their commands]
+3. [Understand the backend fundamental, uncluding server side prgramming]
+4.[WE Leart about creating Apis]
+5[how to connect frontend and backend]

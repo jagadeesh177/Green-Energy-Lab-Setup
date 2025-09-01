@@ -1,0 +1,3 @@
+1. [Understand the fundamentals of backend development, including server-side programming and database management.]
+2. [Learn how to design and implement RESTful APIs for seamless communication between the backend and frontend.]
+3. [Gain proficiency in debugging, optimizing, and securing backend systems to ensure high performance and readability]
